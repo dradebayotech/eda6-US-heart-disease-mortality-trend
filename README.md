@@ -1,5 +1,5 @@
 # ❤️‍🩹 EDA PROJECT 6:
-# ❤️‍🩹 Beyond the Average: Geographic, Sex, and Race/Ethnicity Disparities in U.S. Heart Disease Mortality (2019–2021)
+# ❤️‍🩹 Beyond the Average: Uncovering Geographic, Sex, and Race/Ethnicity Disparities in U.S. Heart Disease Mortality (2019–2021)
 
 ## 📌 Project Overview
 This repository contains a comprehensive Exploratory Data Analysis (EDA) of **heart disease mortality among U.S. adults (35+)** for 2019–2021, using age-adjusted, spatially smoothed 3-year average mortality rates from the National Center for Health Statistics (NCHS) (data.gov). The analysis focuses on identifying geographic hotspots and disparities by **sex** and **race/ethnicity**, and assessing distributional characteristics of the mortality rates.
