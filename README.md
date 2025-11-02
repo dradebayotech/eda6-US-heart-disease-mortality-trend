@@ -62,8 +62,4 @@ Primary aims:
 |------------------------------|-------------------------|
 | `images/male_vs_female_scatter.png` | `images/race_boxplot.png` |
 
-*(If you prefer, include the interactive Plotly choropleth as an `.html` in `notebooks/` or link a notebook cell output.)*
-
----
-
 ## 🗂 Repository Structure (recommended)
