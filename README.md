@@ -52,7 +52,6 @@ Primary aims:
 ---
 
 ## 📸 Visual Highlights
-> Export these figures from your notebook into `images/` and upload them to the repository so they render here.
 
 | Top 20 Counties (bar) | County Choropleth (smoothed rates) |
 |-----------------------|------------------------------------|
