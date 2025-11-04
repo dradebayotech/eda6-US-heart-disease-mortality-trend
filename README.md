@@ -76,3 +76,11 @@ eda-us-heart-disease-mortality-2019-2021/
 ├── data/ # optional: small sample or pointers (no raw NCHS files here)
 ├── README.md
 ```
+---
+
+## 📂 Dataset Access
+
+You can access it here:
+👉 [Heart Disease Mortality Data Among US Adults (35+)](https://catalog.data.gov/dataset/heart-disease-mortality-data-among-us-adults-35-by-state-territory-and-county-2019-2021)
+
+---
