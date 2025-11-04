@@ -64,8 +64,7 @@ Primary aims:
 
 ## 🗂 Repository Structure
 
----
-
+```
 eda-us-heart-disease-mortality-2019-2021/
 ├── notebooks/
 │ └── EDA_Project_6_US_heart-disease_mortality_trend.ipynb
@@ -76,4 +75,4 @@ eda-us-heart-disease-mortality-2019-2021/
 │ └── race_boxplot.png
 ├── data/ # optional: small sample or pointers (no raw NCHS files here)
 ├── README.md
-
+```
