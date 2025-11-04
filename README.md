@@ -64,6 +64,23 @@ Primary aims:
 
 ## 🗂 Repository Structure
 
+
+```
+eda3_parkinsons_disease_telemonitoring/
+│── notebooks/
+│   └── EDA_Project_3_Oxford_Parkinson_Disease_Telemonitoring.ipynb
+│── images/
+│   ├── updrs_distribution.png
+│   ├── heatmap.png
+│   ├── voice_trends.png
+│   └── outliers.png
+│── README.md
+```
+
+---
+
+
+
 eda-us-heart-disease-mortality-2019-2021/
 │── notebooks/
 │   └── EDA_Project_6_US_heart-disease_mortality_trend.ipynb
