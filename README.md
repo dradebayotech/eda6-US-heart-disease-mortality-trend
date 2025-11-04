@@ -64,4 +64,13 @@ Primary aims:
 
 ## 🗂 Repository Structure
 
-
+eda-us-heart-disease-mortality-2019-2021/
+├── notebooks/
+│ └── EDA_Project_6_US_heart-disease_mortality_trend.ipynb
+├── images/
+│ ├── top20_counties.png
+│ ├── choropleth_county.png
+│ ├── male_vs_female_scatter.png
+│ └── race_boxplot.png
+├── data/ # optional: small sample or pointers (no raw NCHS files here)
+├── README.md
