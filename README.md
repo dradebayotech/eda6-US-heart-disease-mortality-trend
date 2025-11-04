@@ -65,6 +65,16 @@ Primary aims:
 ## 🗂 Repository Structure
 
 eda-us-heart-disease-mortality-2019-2021/
+│── notebooks/
+│   └── EDA_Project_6_US_heart-disease_mortality_trend.ipynb
+│── images/
+│   ├── updrs_distribution.png
+│   ├── heatmap.png
+│   ├── voice_trends.png
+│   └── outliers.png
+│── README.md
+
+
 ├── notebooks/
 │ └── EDA_Project_6_US_heart-disease_mortality_trend.ipynb
 ├── images/
