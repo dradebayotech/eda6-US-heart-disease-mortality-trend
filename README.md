@@ -60,7 +60,7 @@ Primary aims:
 
 | Paired Male vs Female Scatter | Race/Ethnicity Boxplot |
 |------------------------------|-------------------------|
-| `images/male_vs_female_scatter.png` | `images/race_boxplot.png` |
+| `images/male_vs_female_scatter.png` | `images/Distribution_of_Heart-Disease_Mortality-Rate_by_Race-Ethnicity.png` |
 
 | Paired Male vs Female Scatter | Race/Ethnicity Boxplot |
 |------------------------------|-------------------------|
