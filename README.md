@@ -56,7 +56,11 @@ Primary aims:
 
 | Top 20 Counties (bar) | County Choropleth (smoothed rates) |
 |-----------------------|------------------------------------|
-| `images/top20_counties.png` | `images/choropleth_county.png` |
+| `images/Top_20_Counties_with_Highest_Age-Adjusted_Heart-Disease_Mortality.png` | `images/choropleth_county.png` |
+
+| Paired Male vs Female Scatter | Race/Ethnicity Boxplot |
+|------------------------------|-------------------------|
+| `images/male_vs_female_scatter.png` | `images/race_boxplot.png` |
 
 | Paired Male vs Female Scatter | Race/Ethnicity Boxplot |
 |------------------------------|-------------------------|
